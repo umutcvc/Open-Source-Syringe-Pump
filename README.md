@@ -21,5 +21,5 @@ Electronics Wiring;
 
 
 Design Overview;
-![](Images/design.jpg)
+![](03_Images/design.jpg)
 
