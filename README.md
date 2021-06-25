@@ -14,7 +14,7 @@ Bill of Materials;
 - Arduino Uno (x1)
 - Motor driver, A4988 (x1)
 - Power supply (x1)
-- Capacitor 2200 uF, 6.3V (x1)
+- Capacitor 2200 uF (x1)
 - 3D printed parts (x4)
 
 Electronics Wiring;
