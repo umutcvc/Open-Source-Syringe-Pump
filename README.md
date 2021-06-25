@@ -7,12 +7,15 @@ Bill of Materials;
 - Linear rod 8mm, 350mm (x1)
 - 60 ml syringe (x1)
 - LM8UU bearing (x1)
+- Coupler 5*8 (x1)
 - T nut and bolt M5 (x6 each)
+- M3 bolts for motor and lead screw nut mounting (x8)
 - Stepper motor Nema14 (x1)
 - Arduino Uno (x1)
 - Motor driver, A4988 (x1)
 - Power supply (x1)
 - Capacitor 2200 uF, 6.3V (x1)
+- 3D printed parts (x4)
 
 Electronics Wiring;
 
