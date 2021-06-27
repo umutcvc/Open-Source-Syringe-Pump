@@ -18,7 +18,7 @@ Bill of Materials;
 - 3D printed parts (x4)
 
 Electronics Wiring;
-
+![](03_Images/circuit.jpg)
 
 Design Overview;
 ![](03_Images/design.jpg)
