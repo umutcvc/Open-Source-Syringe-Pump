@@ -20,6 +20,9 @@ Bill of Materials;
 Electronics Wiring;
 ![](03_Images/circuit.jpg)
 
+Labview User Interface;
+![](03_Images/Labview.PNG)
+
 Design Overview;
 ![](03_Images/design.jpg)
 
