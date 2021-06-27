@@ -1,5 +1,5 @@
 # Open-Source-Syringe-Pump
-Here is an open source and low cost syringe pump project for soft robotic and micro-fluidic applications. Labview interface is generated with the control functions of on/off and volume feed/suction. Labview files are stored in software folder, to use the interface it is necessary to download required files and connect arduino to Labview with Makerhub-LINX.
+Here is an open-source and low-cost syringe pump project for soft robotic and micro-fluidic applications. Labview interface is generated with the control functions of on/off and volume feed/suction. Labview files are stored in the software folder, to use the interface it is necessary to download the required files and connect Arduino to Labview with Makerhub-LINX. Note that the NI Visa driver package should be installed to communicate over the serial port.
 
 Bill of Materials;
 - 20*20 Aluminum profiles (x2)
